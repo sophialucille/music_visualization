@@ -1,2 +1,2 @@
 # music_visualization
-A visualization of music through LEDs
+A visualization of music project
